@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://zoltdb.com">
-    <img src="https://zoltdb.com/assets/brand/logo-mark.svg" alt="Zolt" width="72" />
+    <img src="assets/zolt-logo-blue.svg" alt="Zolt" width="72" />
   </a>
 </p>
 
